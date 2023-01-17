@@ -76,10 +76,7 @@ header nav ul li a {
 }
 
 .hero-image {
- 
-  /* Set a specific height */
   height: 60%;
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background: linear-gradient(298deg, rgb(31, 30, 30) 0%, #f19e4b 36%, rgb(24, 24, 24) 100%);
   background-repeat: no-repeat;
