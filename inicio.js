@@ -135,7 +135,7 @@ function CancelarTurno() {
 
 const responsable = document.querySelector("#abogado");
 
- fetch("./data.json")
+ fetch("/data.json")
  .then((resp) =>resp.json ())
  .then((data)=>
  

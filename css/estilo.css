@@ -6,7 +6,7 @@ html {
 
 header nav {
   background: rgb(0, 0, 0);
-  background: linear-gradient(298deg, rgb(31, 30, 30) 0%, #d69e67 36%, rgb(39, 39, 39) 100%);
+  background: linear-gradient(298deg, rgb(12, 12, 12) 0%, #f1a355 36%, rgb(5, 5, 5) 100%);
 }
 header nav a {
   color: rgb(255, 255, 255);
@@ -76,12 +76,12 @@ header nav ul li a {
 }
 
 .hero-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../img/derecho comercial.jpeg");
+ 
   /* Set a specific height */
-  height: 80%;
+  height: 60%;
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
+  background: linear-gradient(298deg, rgb(31, 30, 30) 0%, #f19e4b 36%, rgb(24, 24, 24) 100%);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
